@@ -54,7 +54,7 @@ export function HomePage() {
             IBM Agenda Técnica <span className="font-semibold">2026</span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl">
-            Descubre los cursos y talleres técnicos diseñados para clientes y socios de negocio de IBM España.
+            Potencia tu conocimiento y llévalo al siguiente nivel con este catálogo de workshops del equipo técnico de IBM España. 
           </p>
         </div>
       </div>
